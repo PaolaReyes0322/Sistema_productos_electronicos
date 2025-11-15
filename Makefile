@@ -60,3 +60,5 @@ rebuild: clean all
 # Ejecutar el programa
 run: $(TARGET)
 	./$(TARGET)
+
+.PHONY: all clean rebuild run asm disasm setup help
