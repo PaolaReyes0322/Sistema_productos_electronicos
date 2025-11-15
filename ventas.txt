@@ -1,0 +1,2 @@
+1,P001,Laptop Dell XPS 15,1,800.00,1200.00,2025-11-10
+2,P002,Mouse Logitech MX Master,3,35.00,55.00,2025-11-11
